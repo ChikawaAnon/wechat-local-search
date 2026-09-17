@@ -1,0 +1,11 @@
+{
+  "active": "wxid_demo_account_0000",
+  "accounts": {
+    "wxid_demo_account_0000": {
+      "db_dir": "D:\\WeChatData\\wxid_demo_account_0000\\db_storage",
+      "self": "wxid_demo_self",
+      "label": "示例账号"
+    }
+  },
+  "wechat_root": "D:\\WeChatData\\wxid_demo_account_0000"
+}
